@@ -1,9 +1,7 @@
 # Hi there, I'm Anastasia! 👋 (Junior Data Scientist)
 
-<p align="left">
-  <a href="https://streamlit.app"><img src="https://shields.io" alt="Streamlit App"></a>
-  <a href="https://github.com"><img src="https://shields.io" alt="ML Project"></a>
-</p>
+[![Streamlit App](https://shields.io)](https://streamlit.app)
+[![ML Project](https://shields.io)](https://github.com)
 
 I am a Junior Data Scientist with a strong background in computer science, software engineering, and analytical modeling. Currently pursuing a Bachelor's degree in Computer Science at UrTISI SibGUTI and leveling up advanced machine learning skills at Sber's School 21.
 
