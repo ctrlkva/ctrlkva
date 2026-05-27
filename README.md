@@ -31,7 +31,3 @@ I am a Junior Data Scientist with a strong background in computer science, softw
 - Telegram: [@ctrlkva](https://t.me)
 - Email: [ctrlkva@gmail.com](mailto:ctrlkva@gmail.com)
 - Professional Network: [Setka Profile](https://set.ki)
-
-<p align="center">
-  <img src="https://vercel.app" alt="Anastasia's GitHub Stats" />
-</p>
