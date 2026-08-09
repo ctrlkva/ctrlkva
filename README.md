@@ -30,4 +30,4 @@ I am a Junior Data Scientist with a strong background in computer science, softw
 
 - Telegram: [@ctrlkva](https://t.me)
 - Email: [ctrlkva@gmail.com](mailto:ctrlkva@gmail.com)
-- Professional Network: [Setka Profile]([https://set.ki](https://setka.ru/users/8f6935b1-7cf1-4ef8-804a-c4c561c9d9e3))
+- Professional Network: [Setka Profile](https://setka.ru/users/8f6935b1-7cf1-4ef8-804a-c4c561c9d9e3)
