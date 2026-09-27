@@ -1,5 +1,5 @@
 # Hi there, I'm Anastasia! 👋 (Junior Data Scientist)
-## 🚀 Live Demo: EdTech Dashboard | [**Streamlit**](https://streamlit.app) | 📈 [**Yandex DataLens**](https://datalens.ru/vxb6u0h99na8e-edtech-analytics-dashboard?_share_link=org)
+## 🚀 Live Demo: EdTech Dashboard | [**Streamlit**](https://streamlit.app) | [**Yandex DataLens**](https://datalens.ru/vxb6u0h99na8e-edtech-analytics-dashboard?_share_link=org)
 
 I am a Junior Data Scientist with a strong background in computer science, software engineering, and analytical modeling. Currently pursuing a Bachelor's degree in Computer Science at Ural Technical Institute of Communications and Informatics and leveling up advanced machine learning skills at Sber's School 21.
 
